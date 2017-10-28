@@ -4,7 +4,7 @@
 Data Warehousing Project  Building and Analysing a DW
 for NatureFresh Stores in NZ 
 
-============================================================================================
+==========================================================
 
 
 # Getting Started:
@@ -23,7 +23,7 @@ The project will include four files:
 4. projectReport.doc
  It reports the whole process.
 
-==============================================================================================
+========================================================
 
 # STEP BY STEP to operate the project:
 
@@ -36,17 +36,17 @@ The project will include four files:
 2. Connect to the Oracle server:
  
 	
-===================
+======================
 ## B. Unzip the folder
-===================
+======================
 
 3. Download All files
 
 4. ReadMe for futher information
 
-==============================
+================================
 ## C. Run files on sql developer
-==============================
+================================
 
 5. First, run createDW.sql to construct the star schema
 
@@ -97,5 +97,5 @@ The project will include four files:
  
 	to see other information retrieved from Q6 with cube concept 
 
-============================================================================================================================
+===============================================================================================
 
