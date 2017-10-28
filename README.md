@@ -7,7 +7,6 @@ for NatureFresh Stores in NZ
 ============================================================================================
 
 
-
 # Getting Started:
 
 The project will include four files:
@@ -40,7 +39,9 @@ The project will include four files:
 ===================
 ## B. Unzip the folder
 ===================
+
 3. Download All files
+
 4. ReadMe for futher information
 
 ==============================
@@ -96,5 +97,5 @@ The project will include four files:
  
 	to see other information retrieved from Q6 with cube concept 
 
-=================================================================================================================================
+============================================================================================================================
 
