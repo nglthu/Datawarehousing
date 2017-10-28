@@ -2,7 +2,7 @@
 # Project title: 
 	
 Data Warehousing Project  Building and Analysing a DW
-for NatureFresh Stores in NZ 
+for NF Stores in NZ 
 
 ==========================================================
 
