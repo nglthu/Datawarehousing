@@ -3,7 +3,7 @@
 	
 Data Warehousing Project  Building and Analysing a DW
 for NF Stores in NZ 
-![alt text](https://github.com/nglthu/resume/blob/master/images/dataIntegration.png)
+![alt text](https://github.com/nglthu/Datawarehousing/blob/master/img/dataIntegration.png)
 
 ============================================================================================================
 
