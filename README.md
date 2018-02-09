@@ -1,3 +1,18 @@
+[![licence badge]][licence]
+[![stars badge]][stars]
+[![forks badge]][forks]
+[![issues badge]][issues]
+
+[licence badge]:https://img.shields.io/badge/license-MIT-blue.svg
+[stars badge]:https://img.shields.io/github/stars/hey-red/Markdown.svg
+[forks badge]:https://img.shields.io/github/forks/hey-red/Markdown.svg
+[issues badge]:https://img.shields.io/github/issues/hey-red/Markdown.svg
+
+[licence]:https://github.com/nglthu/Datawarehousing/blob/master/LICENSE
+[stars]:https://github.com/nglthu/Datawarehousing/stargazers
+[forks]:https://github.com/nglthu/Datawarehousing/network
+[issues]:https://github.com/nglthu/Datawarehousing/issues
+
 # Datawarehousing
 # Project title: 
 	
