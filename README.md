@@ -13,11 +13,11 @@
 [forks]:https://github.com/nglthu/Datawarehousing/network
 [issues]:https://github.com/nglthu/Datawarehousing/issues
 
-# Datawarehousing
-# Project title: 
+# Data Warehousing
+# Project Overview: 
 	
-Data Warehousing Project  Building and Analysing a DW
-for NF Stores in NZ 
+Data Warehousing (DW) Project Building and Analysing a DW for NatureFresh Stores in NZ, built using a high-performance Oracle database 12c, and Index-Nested Loops Join-Oracle.
+
 ![alt text](https://github.com/nglthu/Datawarehousing/blob/master/img/dataIntegration.png)
 
 
